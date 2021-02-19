@@ -2,4 +2,4 @@
 
 This is a plot that visualizes the path between dwellings.
 
-![plot_1](R_Challenge_1.png)
+![plot_1](R Challenge 1.png)
