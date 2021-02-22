@@ -4,6 +4,7 @@ Welcome to my GitHub page.  I’m from Nashville and I plan on majoring in mathe
 
 ## Projects
 [Challenge Problem #0: Path of a Starship](challenge_0.md)
+
 [Challenge Problem #1: Spatial Population Description](challenge_1.md)
 
 ## Informal Responses
