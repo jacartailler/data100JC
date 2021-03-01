@@ -1,1 +1,1 @@
-[plot_1](gabon_pop_counts)
+![plot_1](gabon_pop_counts.png)
