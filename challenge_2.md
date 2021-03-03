@@ -18,4 +18,4 @@ This is the same plot as above but with the border of adm1 and the names of the 
 # Stretch Goal 3
 This is a plot of Gabon's population represented by the rayshader package.
 
-![polt_4](gabon_shader.png]
+![plot_4](gabon_shader.png)
