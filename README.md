@@ -13,4 +13,4 @@ Welcome to my GitHub page.  I’m from Nashville and I plan on majoring in mathe
 ## Informal Responses
 [DS Reflection #1: Joshua Blumenstock, Don’t forget people in the use of big data for development](ds_reflection_1.md)
 
-[DS Reflection #2: Big Data, new epistemologies andparadigm shifts](ds_reflection_2.md)
+[DS Reflection #2: Big Data, new epistemologies and paradigm shifts](ds_reflection_2.md)
