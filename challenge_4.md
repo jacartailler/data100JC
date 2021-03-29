@@ -1,6 +1,6 @@
-#Challenge Problem
+# Challenge Problem
 
-##Histograms
+## Histograms
 
 This plot illustrates a histogram relating population density and night time lights in Gabon.
 
@@ -10,7 +10,7 @@ This plot illustrates a histogram relating population density and topography in 
 
 ![plot2](gabon_topo_density.png)
 
-##Linear Regressions
+## Linear Regressions
 
 This plot illustrates a linear regression relating population and night time lights in Gabon.
 
