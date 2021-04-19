@@ -11,6 +11,8 @@ Welcome to my GitHub page.  I’m from Nashville and I plan on majoring in mathe
   - [2.1: Creating a Geometric Bar Plot with your Simple Feature object](challenge_3.md)
   - [2.2: Acquiring, Modifying, and Describing the Data](challenge_4.md)
 
+[Challenge Problem #3: Modeling & Predicting Spatial Values/Investigating and Comparing Results](challenge_5.md)
+
 ## Informal Responses
 [DS Reflection #1: Joshua Blumenstock, Don’t forget people in the use of big data for development](ds_reflection_1.md)
 
