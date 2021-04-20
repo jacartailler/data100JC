@@ -7,7 +7,7 @@ These are my two "mapviews" of the country of Gabon.  The first graph shows the 
 
 
 # Sum Investigation & Comparison
-Of the three sets of plots, the log of the population produced the most accurate prediction in my opinion.  The estimated population according to this analysis was off by only several hundred individuals.
+Of the three sets of plots, the non-log sums of the population produced the most accurate prediction in my opinion.  The estimated population according to this analysis was off by only several hundred individuals.
 
 NOTE:  Some of the visualizations have taken on a "spiky" or "spotted" pattern.  The TAs suggested that these artifacts are a result of errors in the data rather than in my code.  I did my best to resolve the issue, but it has remained.  I included them to show that I was able to construct the code properly.
 
