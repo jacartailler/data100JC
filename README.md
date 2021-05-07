@@ -21,3 +21,5 @@ Welcome to my GitHub page.  I’m from Nashville and I plan on majoring in mathe
 [DS Reflection #3: Development and Complexity](ds_reflection_3.md)
 
 [DS Reflection #4: The Big Picture by Geoff West](ds_reflection_4.md)
+
+[DS Reflection #5: Data Science Knowledge Creation](ds_relfection_5.md
