@@ -18,3 +18,12 @@ This is a population density plot of Mpassa with multiline objects surrounding u
 This is a plot showing urbanized areas in Mpassa.
 
 ![plot_4](final.png)
+
+
+# Roads & Density
+
+![plot5](combined_urban.png)
+
+![plot7](combined_roads.png)
+
+![plot8](combined_roads_density.png)
