@@ -13,7 +13,7 @@ Welcome to my GitHub page.  I’m from Nashville and I plan on majoring in mathe
 
 [Challenge Problem #3: Modeling & Predicting Spatial Values/Investigating and Comparing Results](challenge_5.md)
 
-[Accessibility #1: Description of Urban Areas in Mpassa, Gabon](accessbility1.md)
+[Accessibility #1: Description of Urban Areas in Mpassa, Gabon](accessbility_1.md)
 
 ## Informal Responses
 [DS Reflection #1: Joshua Blumenstock, Don’t forget people in the use of big data for development](ds_reflection_1.md)
