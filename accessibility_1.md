@@ -1,4 +1,4 @@
-![plot_2](mpassa_subset.png)
+![plot_2](mpassa_pop15.png)
 
 ![plot_3](dot.png)
 
