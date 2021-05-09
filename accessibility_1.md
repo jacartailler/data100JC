@@ -9,9 +9,9 @@ This is a plot that represents people as individual dots.  This is not a great r
 
 ![plot_3](dot.png)
 
+# Multiline Plot
 This is a population density plot of Mpassa with multiline objects surrounding urban areas.  PLEASE NOTE: the multiline objects are indeed present in the image, they are just very thin and subtle.
 
-# Multiline Plot
 ![plot_1](multiline1.png)
 
 # Project Deliverable
