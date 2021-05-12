@@ -21,7 +21,7 @@ This is a plot showing urbanized areas in Mpassa.
 
 
 # Roads & Density
-Analysis:  Of the two combined adm2 districts, there are approximately 18 urban areas.  There are approximately 468,000 individuals in this combination with a split of 382,000 (Mpassa) and 86,000 (Léconi-Djoué).  The urban areas are characterized by many urban areas that are primarily low in density. Urban areas tend to focus in the center of the adms2.
+Analysis:  Of the two combined adm2 districts, there are approximately 18 urban areas.  There are approximately 215,000 individuals in this combination with a split of 129,000 (Mpassa) and 86,000 (Léconi-Djoué).  The urban areas are characterized by many urban areas that are primarily low in density. Urban areas tend to focus in the center of the adms2.
 Roads seem to be available to major urban areas and follow the middle of the districts.
 These two adms are in dire need of more health services.  Using data from OpenStreetMap, only one doctor is available to the region out of 170 clinics, 2 dentists, 7 doctors, 22 hospitals, and 100 pharmacies in the country.  The doctor is denoted by the single red dot.  While they are near the one of the larger urban areas, the minor urban areas are quite far away.
 
